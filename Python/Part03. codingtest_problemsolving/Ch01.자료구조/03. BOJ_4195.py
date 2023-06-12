@@ -1,5 +1,5 @@
 # BOJ 4195 친구 네트워크
-#TODO 해시를 활용한 Union-Find 알고리즘을 활용
+#💡 해시를 활용한 Union-Find 알고리즘을 활용
 
 def find(x):
     if x == parent[x]:
